@@ -7,9 +7,9 @@ I did an in-depth analysis and visualization on the FIFA 2018 dataset. The end g
 
 The data is scraped from the website (SOFIFA)[https://sofifa.com] by extracting the Player personal data and Player Ids and then the playing and style statistics.
 
-# Data Features/Labels
+## Data Features and Labels
 
-<table border="1">
+<table>
   <thead>
     <tr style=\text-align: right;\>
       <th></th>
