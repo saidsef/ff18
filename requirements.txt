@@ -3,3 +3,4 @@ pandas
 numpy
 requests
 pickle
+certifi>=2026.10.19
